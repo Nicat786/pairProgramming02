@@ -1,0 +1,101 @@
+.width991 {
+	width: 997px;
+}
+/*--------------------------------
+NAVIGATION BAR
+-----------------------------------*/
+.navbar-header {
+	background: #21C2F8;
+	color:#fff;
+	padding: 35px 23px 19px;
+}
+.navbar-header h1 small {
+	color: #fff;
+	font-weight: 500;
+	font-size: 24px;
+}
+.navbar-brand {
+	font-weight: bold
+}
+.navbar-brand a {
+	font-size: 30px;
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.help-box p {
+	font-size: 14px;
+	margin-top: 40px;
+	margin-bottom: -10px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.help-box .glyphicon-phone {
+	font-size: 32px;
+}
+.help-box a {
+	color: #21C2F8;
+	font-size: 30px;
+	font-weight: 800;
+}
+a:hover {
+	text-decoration: none;
+}
+.navbar-default {
+	background: transparent;
+}
+/*------------------------------------------
+Carousel slider jumbotron !GENERAL
+-------------------------------------------*/
+.jumbotron-1, .jumbotron-2, .jumbotron-3 {
+	padding: 5px;
+	width: 30%;
+	min-height: 150px;
+	border-radius: 2px;
+}
+.jumbotron-1 h1, .jumbotron-2 h1, .jumbotron-3 h1 {
+	font-size: 20px;
+	font-weight: 700;
+	margin-top: 5px;
+}
+.jumbotron-1 p, .jumbotron-2 p, .jumbotron-3 p {
+	font-size: 14px;
+}
+/*------------------------------------------
+Carousel slider 1 jumbotron 1
+-------------------------------------------*/
+.jumbotron-1 {
+	background: rgba(33, 194, 248, 0.8);
+}
+/*------------------------------------------
+Carousel slider 2 jumbotron 2
+-------------------------------------------*/
+.jumbotron-2 {
+	background: rgba(34, 37, 51, 0.8);
+}
+.jumbotron-2 h1 {
+	color: #fff;
+}
+/*------------------------------------------
+Carousel slider 3 jumbotron 3
+-------------------------------------------*/
+.jumbotron-3 {
+	background: rgba(255, 255, 255, 0.8);
+	color: black;
+}
+.jumbotron-3 h1 {
+	color: #21c2f8;
+}
+/*-------------------------------------------
+Thumbnails
+--------------------------------------------*/
+.caption {
+	background: rgba(34, 37, 51, 0.8);
+}
+.wrap p, .caption h3 {
+	color: #fff;
+}
+/*-------------------------------------------
+Welcome Section
+--------------------------------------------*/
+.welcome {}
